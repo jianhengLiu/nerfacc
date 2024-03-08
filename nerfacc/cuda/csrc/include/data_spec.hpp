@@ -1,6 +1,6 @@
 #pragma once
 
-#include <torch/extension.h>
+#include <torch/torch.h>
 #include "utils_cuda.cuh"
 
 struct RaySegmentsSpec {

@@ -1,4 +1,4 @@
-#include <torch/extension.h>
+#include <torch/torch.h>
 #include <ATen/NumericUtils.h>
 #include <ATen/cuda/CUDAContext.h>
 #include <ATen/cuda/CUDAGeneratorImpl.h>

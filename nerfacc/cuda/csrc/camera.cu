@@ -1,4 +1,4 @@
-#include <torch/extension.h>
+#include <torch/torch.h>
 
 #include "include/utils_cuda.cuh"
 #include "include/utils_camera.cuh"
